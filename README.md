@@ -14,7 +14,7 @@
 
 ### ⚡ <u>About Me</u>
 <p align="left">
-  I am a passionate <b>AI Engineer & Full-Stack Developer</b> specializing in crafting high-performance machine learning pipelines, robust FastAPI backend architectures, cyber threat detection systems, and scalable web ecosystems. I love bridging the gap between advanced deep learning and clean, production-grade software engineering.
+  I am a passionate <b> Python Developer & Full-Stack -Ai Developer</b> specializing in crafting high-performance machine learning pipelines, robust FastAPI backend architectures, cyber threat detection systems, and scalable web ecosystems. I love bridging the gap between advanced deep learning and clean, production-grade software engineering.
 </p>
 
 - 🔭 **Current Focus:** Building explainable AI cyber-threat frameworks and automated agentic workflows.
