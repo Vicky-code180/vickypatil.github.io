@@ -3,11 +3,13 @@
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vicky-patil-566279331)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vickypatil.github.io)
-  [![Visitor Count](https://komarev.com/ghpvc/?username=Vicky-code180&color=cyan&style=for-the-badge)](https://github.com/Vicky-code180/vickypatil.github.io)
-
+  <a href="https://in.linkedin.com/in/vicky-patil27/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vickypatil.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vicky-code180&color=blue&style=for-the-badge" alt="Visitor Count"/>
 </div>
 
 ---
